@@ -1,2 +1,2 @@
 # DevFinances 💸
-Vamos construir um mini sistema financeiro com HTML, CSS e JS
+Mini sistema financeiro com HTML, CSS e JS
